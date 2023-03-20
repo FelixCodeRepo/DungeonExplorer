@@ -25,8 +25,8 @@ Room Setting:
 
 
 - Explorer has priority to attack and the monster with highest attack value will get hurt first.
-- Monster: attack ± 50%, HP ± 50% of basic settings. 
-- When explorer EXP is larger than 12, HP = Full.
+* Monster: attack ± 50%, HP ± 50% of basic settings. 
++ When explorer EXP is larger than 12, HP = Full.
 - When game is over, output all information of rooms explored.
 
 
