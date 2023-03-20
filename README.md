@@ -9,12 +9,13 @@ This mini-project (500-1000 lines) is a good practice for some new features of C
 
 
 | Explorer  | Monster |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| :-------------: | :-------------: |
+| HP  | 80/80  |
+| Attack  | 12  |
 
 
 Game Character Setting:
+
 | Explorer | Monster | MonsterLead |
 | :---: | :---: || :---: |
 | HP || 80/80 | 10/10 | 40/40 |
