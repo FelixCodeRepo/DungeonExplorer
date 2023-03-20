@@ -11,7 +11,7 @@ Game Character Setting:
 | attributes\Characters  | Explorer  | Monster | MonsterLead |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | HP  | 80/80 | 10/10 | 40/40 |
-| Attack | 12  | 5 | 10 |
+| Attack | 12 | 5 | 10 |
 | Exp | 0/12 | n/a | n/a |
 
 
@@ -23,3 +23,7 @@ Room Setting:
 | Battle | n/a | Randomly generate 2-3 monsters, each one's attributes are ±50% of basic attributes of monster  | 2x times of basic attributes of monster generated | one MonsterLead generated | A monster with 0.3 times of attributes of Explorer plus a weapon generated |
 | Experience | n/a | Kill one monster, get 1 EXP | get 1 EXP | get 2 EXP | get 2 EXP, explorer attack = basic + this new weapon |
 
+Explorer has priority to attack and the monster with highest attack value will get hurt first.
+Monster: attack ± 50%, HP ± 50% of basic settings. 
+When explorer EXP is larger than 12, HP = Full.
+When game is over, output all information of rooms explored.
