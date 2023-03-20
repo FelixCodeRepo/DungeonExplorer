@@ -1,5 +1,5 @@
 # DungeonExplorer
-### Design a game of Exploration of Dungeon with C++ OOP (tb Cont'd)
+### Design a game of Exploration of Dungeon with C++ OOP (to be Cont'd)
 
 This mini-project (500-1000 lines) is a good practice for some new features of C++11/14/17 such as smart pointer (shared_ptr, make_shared), iterators, algorithms from STL, lambda expression, virtual.
 
