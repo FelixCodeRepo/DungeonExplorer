@@ -29,4 +29,7 @@ Room Setting:
 + When explorer EXP is larger than 12, HP = Full.
 - When game is over, output all information of rooms explored.
 
+Output Samples (version 0.1)
+![image](https://user-images.githubusercontent.com/89890055/226474432-bd9567e2-cc06-43c1-9122-37334ee0f23c.png)
+![image](https://user-images.githubusercontent.com/89890055/226474494-082f660a-1c7c-48ed-b369-4963dff9e980.png)
 
