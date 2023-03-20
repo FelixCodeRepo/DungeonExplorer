@@ -24,9 +24,9 @@ Room Setting:
 | Experience | n/a | Kill one monster, get 1 EXP | get 1 EXP | get 2 EXP | get 2 EXP, explorer attack = basic + this new weapon |
 
 
-Explorer has priority to attack and the monster with highest attack value will get hurt first.
-Monster: attack ± 50%, HP ± 50% of basic settings. 
-When explorer EXP is larger than 12, HP = Full.
-When game is over, output all information of rooms explored.
+- Explorer has priority to attack and the monster with highest attack value will get hurt first.
+- Monster: attack ± 50%, HP ± 50% of basic settings. 
+- When explorer EXP is larger than 12, HP = Full.
+- When game is over, output all information of rooms explored.
 
 
