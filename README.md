@@ -8,7 +8,7 @@ This mini-project (500-1000 lines) is a good practice for some new features of C
 
 
 
-| First Header  | Second Header |
+| Explorer  | Monster |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
