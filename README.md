@@ -15,8 +15,8 @@ This mini-project (500-1000 lines) is a good practice for some new features of C
 
 
 Game Character Setting:
-| :---: || Explorer | Monster | MonsterLead |
-| :---: | :---: | :---: || :---: |
+| Explorer | Monster | MonsterLead |
+| :---: | :---: || :---: |
 | HP || 80/80 | 10/10 | 40/40 |
 | Attack || 12 | 5 | 10 |
 | Exp || 0/12 |
