@@ -1,9 +1,9 @@
 # DungeonExplorer
-C++ OOP design (tb Cont'd)
+### Design a game of Exploration of Dungeon with C++ OOP (tb Cont'd)
 
 This mini-project (500-1000 lines) is a good practice for some new features of C++11/14/17 such as smart pointer (shared_ptr, make_shared), iterators, algorithms from STL, lambda expression, virtual.
 
-## Design a game of Exploration of Dungeon. This game is fully automatic with text output only, contrary to more complex design with images such as this:
+This game is fully automatic with text output only, contrary to more complex design with images such as this:
 ![image](https://user-images.githubusercontent.com/89890055/226417229-31c67cdb-8f28-4f18-9a09-2a513944f99d.png)
 
 Game Character Setting:
