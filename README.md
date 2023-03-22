@@ -3,9 +3,7 @@
 
 This mini-project (500-1000 lines) is a good practice for some new features of C++11/14/17 such as smart pointer (shared_ptr, make_shared), iterators, algorithms from STL, lambda expression, virtual.
 
-This game is fully automatic with text output only, contrary to more complex design with images such as this:
-![image](https://user-images.githubusercontent.com/89890055/226417229-31c67cdb-8f28-4f18-9a09-2a513944f99d.png)
-
+This game is fully automatic with text output only.
 Game Character Setting:
 
 | attributes\Characters  | Explorer  | Monster | MonsterLead |
